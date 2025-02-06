@@ -116,7 +116,7 @@
 
     <section class="hero">
         <div class="hero-overlay"></div>
-        <img id="heroImage" src="images/3.png" alt="Hero Image">
+        <img id="heroImage" src="images/12.jpg" alt="Hero Image">
         <div class="hero-content">
             <h1>Welcome to eShop</h1>
             <p>Get the Best Deals Today!</p>
@@ -128,15 +128,15 @@
         <h2 class="text-center mb-4">Featured Products</h2>
         <div class="row products">
             <div class="col-md-4">
-                <img src="images/6.jpg" alt="Smartphone" />
+                <img src="images/12.jpg" alt="Smartphone" />
                 <h4 class="text-center mt-2">Smartphone</h4>
             </div>
             <div class="col-md-4">
-                <img src="https://source.unsplash.com/300x300/?fashion" alt="Fashion Wear" />
+                <img src="images/13.jpg" alt="Fashion Wear" />
                 <h4 class="text-center mt-2">Fashion Wear</h4>
             </div>
             <div class="col-md-4">
-                <img src="https://source.unsplash.com/300x300/?shoes" alt="Trendy Shoes" />
+                <img src="images/12.jpg" alt="Trendy Shoes" />
                 <h4 class="text-center mt-2">Trendy Shoes</h4>
             </div>
         </div>
@@ -184,7 +184,7 @@
     </footer>
 
     <script>
-        const images = ["images/3.png", "images/4.jpg", "images/5.jpg"];
+        const images = ["images/18.jpg", "images/19.jpg", "images/13.jpg"];
         let index = 0;
         function changeHeroImage() {
             index = (index + 1) % images.length;
@@ -192,6 +192,6 @@
         }
         setInterval(changeHeroImage, 3000); // Change image every 3 seconds
     </script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="images/13.jpg"></script>
 </body>
 </html>

@@ -158,7 +158,7 @@
             </div>
             <p class="forgot-password">Forgot password?</p>
             <button class="btn">Login</button>
-            <p style="margin-top: 10px; color: #999;">or login with social platforms</p>
+            <p style="margin-top: 10px; color: #999;">or login with E-commercial</p>
             <div class="social-login">
                 <i class="fab fa-google"></i>
                 <i class="fab fa-facebook"></i>
@@ -182,7 +182,7 @@
                 <i class="fas fa-lock icon"></i>
             </div>
             <button class="btn">Register</button>
-            <p style="margin-top: 10px; color: #999;">or register with second_hand platforms</p>
+            <p style="margin-top: 10px; color: #999;">or register with E-commerical</p>
             <div class="social-login">
                 <i class="fab fa-google"></i>
                 <i class="fab fa-facebook"></i>
